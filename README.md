@@ -1,2 +1,11 @@
-# Travelgo
-TravelGo - Smart Bus &amp; Train Booking Flutter App with modern UI and startup-ready architecture.
+
+# TravelGo Flutter App
+
+Simple startup-style Bus & Train booking app starter.
+
+## Run
+flutter pub get
+flutter run
+
+## Build APK
+flutter build apk --release
